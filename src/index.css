@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-shadow: 0;
+}
+
+input.dash-in {
+  background: url("../src/assets/search.png") right no-repeat;
+}
